@@ -1,6 +1,4 @@
-from numeric import *
-from functions import *
-from vectors import *
+from src import *
 
 # SIMPLIFYING EXACT VALUES
 print(f"(1/3)*4^(1/3)*5/(1/6) = {Rational(1, 3)*Power(4, Rational(1, 3))*5/Rational(1, 6)}")

@@ -3,6 +3,8 @@
 # py-cas
 algebraic calculator for python
 
+run demo.py and proto_demo.py to test
+
 ## numeric.py
 ### Rational
 > Rational(numerator, denominator)

@@ -1,4 +1,4 @@
-from numeric import *
+from .numeric import *
 
 # rules
 # all 'operators' are internal
@@ -13,7 +13,7 @@ class Func:
     pass
 
 class MathFunc:
-    def __init__ (self, func:function, parameters:list):
+    def __init__ (self, func, parameters:list):
         self.func = func
 
 class Func:

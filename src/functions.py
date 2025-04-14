@@ -1,4 +1,4 @@
-from numeric import *
+from .numeric import *
 
 class Func:
     pass

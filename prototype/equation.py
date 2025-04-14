@@ -1,6 +1,6 @@
-from numeric import *
-from functions import *
-from utility import *
+from .numeric import *
+from .functions import *
+from .utility import *
 
 class Equation:
     pass

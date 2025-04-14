@@ -1,8 +1,9 @@
-from numeric import *
+from .numeric import *
 
 class Vector:
     pass
 
+# non-recursive variable
 class Vector:
     def __init__ (self, i, j) -> None:
         if type(i) not in numeric or type(j) not in numeric:
